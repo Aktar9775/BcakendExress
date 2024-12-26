@@ -2,7 +2,7 @@
   "name": "backendinnodejs",
   "version": "1.0.0",
   "description": "",
-  "main": "Pro_struc.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -12,6 +12,7 @@
     "cookie-parser": "^1.4.7",
     "ejs": "^3.1.10",
     "express": "^4.21.2",
+    "mongoose": "^8.9.2",
     "nodemon": "^3.1.9"
   }
 }
